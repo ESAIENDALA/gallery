@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>my journey</title>
+<style>
+h2 {
+     text-align: center;
+     background-color: darkgoldenrod;
+     margin-bottom: 0px;
+     height: 100px;
+     
+}
+
+body {
+     text-align: center;
+     background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+     padding: 20px;
+}
+.first {
+     width: 80%;
+          max-width: 500px;
+          background-color: rgba(111, 81, 81, 0.573);
+          margin-left: auto;
+          margin-right: auto;
+          color: azure;
+          padding-left: 20px;
+          font-family: serif;
+          height: fit-content;
+}
+#form {
+     display: flex;
+}
+.content {
+     background-color: rgba(34, 26, 16, 0.708);
+}
+</style>
+</head>
+<main>
+<body class="first">
+ <h2>MY FIRST PAGE</h2><hr><div class="content">
+<p>It wasnt easy but i manage to make it happen i came up a lot of things
+     but i didnt give up so you can do the same</p>
+<form id="form" action="">
+     <input type="name" require  placeholder="Name">
+     <input type="text" placeholder="password" required>
+<button type="login">Login</button>
+</form> </div>
+     <hr></body>
+</main>
+<footer></footer>
+
+
+
+</html>
